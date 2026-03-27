@@ -13,7 +13,7 @@ Intelligent Booking - Automatic conflict prevention with time slot management
 
 5.Booking History - View all past and upcoming bookings in user profile
 
-6.Cancel Booking - Users can cancel their own reservations
+6.Check Bookings - Users can check their own reservations
 
 7.Booking Status Check - Public interface to check booking status by name
 
